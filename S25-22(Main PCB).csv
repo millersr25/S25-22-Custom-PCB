@@ -1,0 +1,33 @@
+,Part ,Source,Quantity,Price,Total
+MCU:,Arduino Nano,digikey,1,$14.70 ,$14.70 
+,,,,,
+IC:,TPS61022RWUR,digikey,1,$1.67 ,$1.67 
+,LTC4054ES5-4.2,digikey,1,$6.14 ,$6.14 
+,,,,,
+Caps:,GRM21BR61A226ME44L (C),digikey,4,$0.30 ,$1.20 
+,GRM188R61A105KA61D,digikey,2,$0.10 ,$0.20 
+,C0603C104K8RACTU,digikey,1,$0.10 ,$0.10 
+,,,,,
+Inductor ,74404043010A (I) ,digikey,1,$0.57 ,$0.57 
+,,,,,
+Resistors:,RC0603FR-07100KL (100k),digikey,1,$0.10 ,$0.10 
+,RC0603FR-07732KL (732k) ,digikey,1,$0.10 ,$0.10 
+,ERJ-2RKF2001X (2k),digikey,1,$0.10 ,$0.10 
+,ERJ-3EKF3300V (330),digikey,1,$0.10 ,$0.10 
+,CRCW12061K00FKEA (1k),digikey,1,$0.11 ,$0.11 
+,CRCW12062K20FKEA (2.2k),digikey,1,$0.11 ,$0.11 
+,,,,,
+MOSFET:,IRLML6344TRPBF,digikey,2,$0.40 ,$0.80 
+,,,,,
+Diode:,SS14,digikey,2,$0.29 ,$0.58 
+,,,,,
+Battery Holder:,BH-18650-PC,digikey,1,$3.12 ,$3.12 
+,BH9VPC,digikey,1,$2.26 ,$2.26 
+,,,,,
+Voltage Regulator: ,LM317,digikey,1,$2.69 ,$2.69 
+Screw Term,282837-2,digikey,1,$0.90 ,$0.90 
+Single Pull Double throw Switch,SS-12D07-VG 4 NS GA PA,digkey,2,$0.88 ,$1.76 
+Total,,,,,$34.65 
+,,,,,
+,,,,,
+https://www.digikey.com/en/products/detail/phoenix-contact/1715721/260631,,,,,
